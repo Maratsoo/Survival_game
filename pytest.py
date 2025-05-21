@@ -1,5 +1,5 @@
 import pytest
-from game import start_game, perform_action, trigger_event
+from Survivalgame import start_game, perform_action, trigger_event
 
 # Palīgfunkcija lietotāja datiem
 def create_user():
